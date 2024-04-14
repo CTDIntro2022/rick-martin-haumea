@@ -1,0 +1,34 @@
+/* Set background color of page */
+body {background-color: gold;
+      font-family: "Sofia", sans-serif;
+      color: grey;
+}
+
+h1 {
+    color: red;
+    font-family: "Trirong", serif;
+}
+
+/* Text color for paragraphs */
+p { 
+    color: green;
+    font-family: "Arial";
+  }
+
+li {
+    font-family: cursive;
+    font-style: italic;
+  }
+  /* Text color for hrefs */
+a {
+    color: blueviolet;
+  }
+
+section {
+    margin-top: 40px;
+  }
+
+  #Experience {
+    color: goldenrod;
+    font-family: "Arial";
+  }
